@@ -9,9 +9,10 @@ isoCode = "en"
 rtl = false
 dateFormat = "2 January 2006"
 description = "just a nerd lost in the world of geek"
+logo = "VIlMP8gh.jpg "
 
 [author]
 name = "Richard Thomas"
-image = "PXL_20240616_122019749.jpg "
 headline = "YorkshireGeek"
 bio = "add me later"
+image = "PXL_20240616_122019749.jpg"

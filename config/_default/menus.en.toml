@@ -2,11 +2,33 @@
 none = "none"
 
 [[main]]
-name = "links"
-pre = "link"
-pageRef = "resources"
-identifier = "9sCuoetl3g"
-weight = 9999
+  name = "Resources"
+  weight = 20
+
+[[main]]
+  name = "What is FND?"
+  parent = "Resources"
+  pageRef = "Resources"
+  url = "https://www.fndhope.org.uk/"
+  weight = 20
+
+[[main]]
+  name = "BSL (British Sign Language"
+  parent = "Resources"
+  pageRef = "samples"
+  pre =  "hand-point-up" 
+  url = "https://www.british-sign.co.uk"
+  weight = 20
+
+[[main]]
+  name = "GitHub"
+  parent = "Resources"
+  pre = "github"
+  url = "https://github.com/GeekAnnoyed"
+  pageRef = "samples"
+  weight = 20
+
+
 
 [[footer]]
 none = "none"

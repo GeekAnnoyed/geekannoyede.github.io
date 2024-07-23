@@ -1,4 +1,4 @@
-colorScheme = "terminal"
+colorScheme = "blowfish"
 defaultAppearance = "dark"
 autoSwitchAppearance = true
 enableSearch = true
@@ -6,6 +6,7 @@ enableCodeCopy = true
 disableImageOptimization = false
 disableTextInHeader = false
 smartTOC = true
+smartTOCHideUnfocusedChildren = ""
 
 [header]
 layout = "fixed-fill-blur"
@@ -18,14 +19,15 @@ showAppearanceSwitcher = true
 showScrollToTop = true
 
 [homepage]
-layout = "profile"
-showRecent = false
-showRecentItems = 5
-showMoreLink = false
+layout = "background"
+showRecent = true
+showRecentItems = "5"
+showMoreLink = true
 showMoreLinkDest = "/posts"
 cardView = false
 cardViewScreenWidth = false
 layoutBackgroundBlur = false
+homepageImage = "VIlMP8gh.jpg"
 
 [article]
 showDate = true
@@ -46,11 +48,11 @@ showHeadingAnchors = true
 showPagination = true
 invertPagination = false
 showReadingTime = true
-showTableOfContents = false
-showTaxonomies = false
-showAuthorsBadges = false
+showTableOfContents = true
+showTaxonomies = true
+showAuthorsBadges = true
 showWordCount = true
-showZenMode = false
+showZenMode = true
 
 [list]
 showHero = false
