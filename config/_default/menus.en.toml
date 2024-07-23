@@ -1,0 +1,12 @@
+[[main]]
+none = "none"
+
+[[main]]
+name = "links"
+pre = "link"
+pageRef = "resources"
+identifier = "9sCuoetl3g"
+weight = 9999
+
+[[footer]]
+none = "none"
