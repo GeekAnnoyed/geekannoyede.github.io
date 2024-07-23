@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Yorkshire Geeek</title>
+    <link>https://example.org/posts/</link>
+    <description>Recent content in Posts on Yorkshire Geeek</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2024 Richard Thomas</copyright>
+    <lastBuildDate>Tue, 23 Jul 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>helloWorld</title>
+      <link>https://example.org/posts/1721734573919-helloworld/</link>
+      <pubDate>Tue, 23 Jul 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/posts/1721734573919-helloworld/</guid>
+      <description>This is a helloworld # nothing exciting to see here :P.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://example.org/posts/1721734573919-helloworld/featured.png.png" />
+    </item>
+    
+  </channel>
+</rss>
